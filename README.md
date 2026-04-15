@@ -1,10 +1,8 @@
-# Igor Aldivan
-
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Foco+em+Back-end+e+APIs;Sistemas+para+Internet;Construindo+solucoes+escalaveis" />
+# Igor Aldivan
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Foco+em+Back-end+e+APIs;Sistemas+para+Internet;Construindo+solucoes+escalaveis" />
 
 ---
 
@@ -20,11 +18,7 @@ Interesse em desenvolvimento de software, banco de dados e evolução para engen
 
 ## Stack Tecnológica
 
-<div align="center">
-
 <img src="https://skillicons.dev/icons?i=java,js,python,php,spring,laravel,html,css,mysql,git,github,vscode" />
-
-</div>
 
 ---
 
@@ -32,45 +26,42 @@ Interesse em desenvolvimento de software, banco de dados e evolução para engen
 
 ### API REST com Spring Boot
 
-* Arquitetura em camadas (Controller, Service, Repository)
-* Integração com banco de dados
-* Organização de código voltada à escalabilidade
+Arquitetura em camadas (Controller, Service, Repository)
+Integração com banco de dados
+Organização de código voltada à escalabilidade
+
+---
 
 ### Sistema Web com Laravel
 
-* Aplicação completa com CRUD
-* Rotas dinâmicas e persistência em MySQL
-* Estruturação seguindo boas práticas do framework
+Aplicação completa com CRUD
+Rotas dinâmicas e persistência em MySQL
+Estruturação seguindo boas práticas do framework
+
+---
 
 ### Front-end Responsivo
 
-* Interfaces adaptáveis para diferentes dispositivos
-* Uso de HTML, CSS e JavaScript moderno
-* Foco em usabilidade e consistência visual
+Interfaces adaptáveis para diferentes dispositivos
+Uso de HTML, CSS e JavaScript moderno
+Foco em usabilidade e consistência visual
 
 ---
 
 ## Estatísticas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorAldivanSL\&show_icons=true\&theme=tokyonight\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAldivanSL\&layout=compact\&theme=tokyonight\&hide_border=true)
-
-</div>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=IgorAldivanSL&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAldivanSL&layout=compact&theme=tokyonight&hide_border=true" />
 
 ---
 
 ## Objetivo
 
-Atuar como estagiário em desenvolvimento de software, com foco em back-end ou full stack, contribuindo com soluções reais enquanto evoluo tecnicamente em APIs, banco de dados e arquitetura de sistemas.
+Atuar como estagiário em Desenvolvimento Web Full Stack, contribuindo com a construção de aplicações completas, desde o front-end até o back-end, enquanto evoluo tecnicamente em arquitetura de sistemas, APIs e banco de dados.
 
 ---
 
 ## Contato
-
-<div align="center">
 
 [igoraldivansl@gmail.com](mailto:igoraldivansl@gmail.com)
 linkedin.com/in/igor-aldivansl

@@ -1,65 +1,79 @@
-# 👋 Olá, eu sou o Igor Aldivan!
+# Igor Aldivan
 
-🎓 Estudante de Sistemas para Internet (SENAC) – 4º semestre  
-💻 Desenvolvedor Full Stack em formação  
-📊 Interessado em Engenharia de Dados  
+<div align="center">
 
-Sou apaixonado por tecnologia e estou em constante evolução, buscando aprimorar minhas habilidades em desenvolvimento web e manipulação de dados. Tenho experiência com projetos práticos envolvendo APIs, banco de dados e aplicações completas.
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Foco+em+Back-end+e+APIs;Sistemas+para+Internet;Construindo+solucoes+escalaveis" />
 
----
-
-## 🚀 Tecnologias e Ferramentas
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-### 🌐 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Back-end & Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-
-### 🗄️ Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+</div>
 
 ---
 
-## 📌 Projetos em Destaque
+## Sobre
 
-🔹 Sistema Web com Laravel  
-Aplicação com funcionalidades CRUD e integração com banco de dados MySQL.  
+Desenvolvedor Full Stack com foco em back-end e construção de APIs REST.
 
-🔹 API REST com Spring Boot  
-Desenvolvimento de API estruturada com boas práticas (controller, service, repository).  
+Estudante de Sistemas para Internet (SENAC) e técnico em Desenvolvimento de Sistemas pelo SENAI, com experiência prática no desenvolvimento de aplicações web completas, integração com banco de dados e organização de projetos em arquitetura de camadas.
 
-🔹 Front-end Responsivo  
-Criação de interfaces modernas utilizando HTML, CSS e JavaScript.
+Interesse em desenvolvimento de software, banco de dados e evolução para engenharia de dados, com foco em código limpo, escalabilidade e boas práticas.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Stack Tecnológica
 
-![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=IgorAldivanSL&show_icons=true&theme=tokyonight)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=java,js,python,php,spring,laravel,html,css,mysql,git,github,vscode" />
 
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade de estágio na área de tecnologia, com foco em desenvolvimento full stack e interesse crescente em engenharia de dados, especialmente no uso de SQL e Python.
+</div>
 
 ---
 
-## 📫 Contato
+## Projetos em Destaque
 
-📧 igoraldivansl@gmail.com  
-🔗 https://linkedin.com/in/igor-aldivansl  
+### API REST com Spring Boot
+
+* Arquitetura em camadas (Controller, Service, Repository)
+* Integração com banco de dados
+* Organização de código voltada à escalabilidade
+
+### Sistema Web com Laravel
+
+* Aplicação completa com CRUD
+* Rotas dinâmicas e persistência em MySQL
+* Estruturação seguindo boas práticas do framework
+
+### Front-end Responsivo
+
+* Interfaces adaptáveis para diferentes dispositivos
+* Uso de HTML, CSS e JavaScript moderno
+* Foco em usabilidade e consistência visual
+
+---
+
+## Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorAldivanSL\&show_icons=true\&theme=tokyonight\&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorAldivanSL\&layout=compact\&theme=tokyonight\&hide_border=true)
+
+</div>
+
+---
+
+## Objetivo
+
+Atuar como estagiário em desenvolvimento de software, com foco em back-end ou full stack, contribuindo com soluções reais enquanto evoluo tecnicamente em APIs, banco de dados e arquitetura de sistemas.
+
+---
+
+## Contato
+
+<div align="center">
+
+[igoraldivansl@gmail.com](mailto:igoraldivansl@gmail.com)
+linkedin.com/in/igor-aldivansl
+github.com/IgorAldivanSL
+
+</div>
